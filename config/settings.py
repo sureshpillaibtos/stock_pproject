@@ -1,0 +1,6 @@
+APP_TITLE = 'Stock Research Platform Dashboard'
+PAGE_ICON = '📈'
+LAYOUT = 'wide'
+DEFAULT_PERIOD = '6mo'
+DEFAULT_INTERVAL = '1d'
+DEFAULT_CHART = 'Candlestick'
